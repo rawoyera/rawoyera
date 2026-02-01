@@ -1,4 +1,4 @@
-# Hi, I’m Ruth 👋🏾
+# Hi, I’m Ruth 👋🏽
 
 I’m an applied data analyst with experience across **nonprofit, healthcare, public-sector, and global health systems**, focused on using data to support decision-making and strategy. My work centers on transforming complex, real-world datasets into clear, actionable insights across organizational and population-level systems.
 
