@@ -16,9 +16,11 @@ I’m an applied data analyst with experience across **nonprofit, healthcare, pu
 - Research framing and insight translation
 
 ## 💼 Background
-- CRM management and analytics within nonprofit and healthcare organizations  
-- Experience working with messy, real-world operational and systems data  
-- Cross-functional collaboration with program, operations, clinical, and leadership teams  
+- CRM management and analytics within nonprofit and healthcare organizations
+- Project management experience supporting cross-functional initiatives and operational workflows
+- Research experience translating questions into measurable metrics and insights
+- Experience working with messy, real-world operational and systems data
+- Collaboration with program, operations, clinical, and leadership teams
 
 ## 📊 Selected Projects
 ### Exploratory Analysis of Engagement & Value Patterns *(In progress)*
