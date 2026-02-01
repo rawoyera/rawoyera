@@ -16,10 +16,13 @@ I analyze messy, real-world data to support **decision-making, strategy, and sys
 ---
 
 ### 🧠 How I Think About Data
-- Applied analytics for organizational and policy decision-making  
-- CRM and engagement data analysis  
-- Population- and systems-level analysis  
-- Health-adjacent datasets across nonprofit and public sectors  
+I approach analytics as a **decision support tool**, not just a technical exercise.
+
+- I start with *what decision needs to be made*  
+- I analyze patterns across **people, processes, and systems**  
+- I prioritize clarity, context, and stakeholder usability over over-engineering  
+
+My work often sits between technical teams, program staff, and leadership.
 
 ---
 
@@ -33,11 +36,11 @@ I analyze messy, real-world data to support **decision-making, strategy, and sys
 ---
 
 ### 🧩 Background & Experience
-- CRM management and analytics in nonprofit and healthcare settings  
-- Project management supporting cross-functional initiatives  
-- Research experience translating questions into measurable insights  
-- Collaboration with clinical, operations, and leadership teams  
-
+- CRM management and analytics in **healthcare and nonprofit settings**  
+- Project management supporting **cross-functional initiatives**  
+- Research experience translating open-ended questions into measurable insights  
+- Collaboration with **clinical, operations, program, and leadership teams**  
+- Comfort working with incomplete, messy, and operational data  
 ---
 
 ### 📊 Selected Projects  
