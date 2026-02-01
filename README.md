@@ -1,38 +1,58 @@
 <img src="banner.png" alt="Ruth Awoyera – Applied Data Analytics" />
 
-# Hi, I’m Ruth 👋🏽
+### Hi, I’m Ruth 👋🏽  
+Applied Data Analyst working at the intersection of **healthcare, nonprofit, and public systems**.
 
-I’m an applied data analyst with experience across **nonprofit, healthcare, public-sector, and global health systems**, focused on using data to support decision-making and strategy. My work centers on transforming complex, real-world datasets into clear, actionable insights across organizational and population-level systems.
+I analyze messy, real-world data to support **decision-making, strategy, and systems improvement**.
 
-## 🔍 What I Work On
-- Applied data analytics for decision-making and strategy  
+---
+
+### 🔎 Snapshot
+- **Domains:** Healthcare, Public Sector, Nonprofit  
+- **Strengths:** Data cleaning, systems analysis, stakeholder-facing insights  
+- **Tools:** Python, SQL, Tableau / Power BI  
+- **Focus:** Turning complex data into decisions
+
+---
+
+### 🧠 How I Think About Data
+- Applied analytics for organizational and policy decision-making  
 - CRM and engagement data analysis  
 - Population- and systems-level analysis  
-- Health-adjacent, nonprofit, and public-sector datasets  
+- Health-adjacent datasets across nonprofit and public sectors  
 
-## 🛠️ Tools & Methods
-- Python (Pandas, NumPy)
-- SQL (aggregation, joins, comparative analysis)
-- Data cleaning & exploratory data analysis (EDA)
-- Dashboards & data storytelling (Tableau / Power BI)
-- Research framing and insight translation
+---
 
-## 💼 Background
-- CRM management and analytics within nonprofit and healthcare organizations
-- Project management experience supporting cross-functional initiatives and operational workflows
-- Research experience translating questions into measurable metrics and insights
-- Experience working with messy, real-world operational and systems data
-- Collaboration with program, operations, clinical, and leadership teams
+### 🛠 Tools I Use
+- Python (Pandas, NumPy)  
+- SQL (joins, aggregation, comparative analysis)  
+- Data cleaning & exploratory data analysis (EDA)  
+- Dashboards & data storytelling (Tableau / Power BI)  
+- Research framing & insight translation  
 
-## 📊 Selected Projects
-### Exploratory Analysis of Engagement & Value Patterns *(In progress)*
-Behavioral and CRM-style data analysis focused on cleaning, feature engineering, and exploratory analysis to understand engagement patterns, segmentation, and value indicators across real-world systems.
+---
 
-### SQL-Based Analysis of County-Level Outcomes *(Planned)*
-Population-level analysis using SQL to examine disparities in outcomes relative to access and demographic factors, with an emphasis on systems performance and resource prioritization.
+### 🧩 Background & Experience
+- CRM management and analytics in nonprofit and healthcare settings  
+- Project management supporting cross-functional initiatives  
+- Research experience translating questions into measurable insights  
+- Collaboration with clinical, operations, and leadership teams  
 
-### Dashboard Analysis of Wearable Performance Data *(Planned)*
-Executive-style dashboard analyzing time-series wearable health data to visualize trends in activity, sleep, and physiological indicators, translating individual-level metrics into system-level insights.
+---
 
-## 📫 Connect
+### 📊 Selected Projects  
+*A focused portfolio demonstrating range across people, systems, and technology.*
+
+**Exploratory Analysis of Engagement & Value Patterns** *(In Progress)*  
+Behavioral CRM-style analysis focused on cleaning, feature engineering, and identifying engagement patterns and value indicators in real-world data.
+
+**SQL-Based Analysis of County-Level Health Outcomes** *(Planned)*  
+County-level public health analysis using SQL to examine disparities in outcomes relative to access, demographics, and system performance.
+
+**Health IT Dashboard: Insights from Wearable Health Data** *(Planned)*  
+Executive-style dashboard translating wearable health and fitness metrics into system-level insights relevant to preventive care and digital health.
+
+---
+
+### 🔗 Connect
 - LinkedIn:[ https://www.linkedin.com/in/ruthawoyera/](url)
