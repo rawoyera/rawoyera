@@ -21,7 +21,14 @@ I’m an applied data analyst with experience across **nonprofit, healthcare, pu
 - Cross-functional collaboration with program, operations, clinical, and leadership teams  
 
 ## 📊 Selected Projects
-Projects will be added here as they are completed.
+### Exploratory Analysis of Engagement & Value Patterns *(In progress)*
+Behavioral and CRM-style data analysis focused on cleaning, feature engineering, and exploratory analysis to understand engagement patterns, segmentation, and value indicators across real-world systems.
+
+### SQL-Based Analysis of County-Level Outcomes *(Planned)*
+Population-level analysis using SQL to examine disparities in outcomes relative to access and demographic factors, with an emphasis on systems performance and resource prioritization.
+
+### Dashboard Analysis of Wearable Performance Data *(Planned)*
+Executive-style dashboard analyzing time-series wearable health data to visualize trends in activity, sleep, and physiological indicators, translating individual-level metrics into system-level insights.
 
 ## 📫 Connect
 - LinkedIn:[ https://www.linkedin.com/in/ruthawoyera/](url)
